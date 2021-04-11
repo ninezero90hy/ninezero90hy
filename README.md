@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=e8e8&height=300&section=header&text=HeeyounSong&fontSize=90)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">🛠 Tech Stack 🛠</p>
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp 
